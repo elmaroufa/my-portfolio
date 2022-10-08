@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "SALUT",
+      "description": "👋 Je suis Saly Abbo, développeur Python,odoo et javascript, je parle flask, django, odoo et reactjs. Je code depuis 2015.Le design thinking, le design d'expérience et l'innovation sont mes sujets de discussion favoris.... ",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "A propos de moi",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Expériences"
       }
     },
     "projects": [

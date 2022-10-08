@@ -115,8 +115,9 @@ class App extends Component {
             style={{ display: "inline" }}
           >
             <span
-              className="iconify language-icon"
-              data-icon="twemoji-flag-for-flag-poland"
+              className="iconify language-icon mr-5"
+              width="61px"
+              data-icon="cif:fr"
               data-inline="false"
               id={window.$secondaryLanguageIconId}
             ></span>
